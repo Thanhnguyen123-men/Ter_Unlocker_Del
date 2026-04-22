@@ -1,0 +1,38 @@
+{
+  "RT_MANIFEST": {
+    "#1": {
+      "0409": {
+        "identity": {
+          "name": "ThanhNguyen.TerUnlockerDel",
+          "version": "1.6.7.0"
+        },
+        "execution-level": "requireAdministrator",
+        "ui-access": false,
+        "auto-elevate": false,
+        "dpi-awareness": "system",
+        "use-common-controls-v6": true
+      }
+    }
+  },
+  "RT_VERSION": {
+    "#1": {
+      "0000": {
+        "fixed": {
+          "file_version": "1.6.7.0",
+          "product_version": "1.6.7.0"
+        },
+        "info": {
+          "0409": {
+            "CompanyName": "ThanhNguyen Software",
+            "FileDescription": "Ter-Unlocker - Unlock and del",
+            "FileVersion": "1.6.7",
+            "InternalName": "Ter_Unlocker_Pro",
+            "LegalCopyright": "Copyright (c) 2026 ThanhNguyen",
+            "ProductName": "Ter-Unlocker Series",
+            "ProductVersion": "1.6.7"
+          }
+        }
+      }
+    }
+  }
+}
