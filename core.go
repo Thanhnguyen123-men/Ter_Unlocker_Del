@@ -57,7 +57,7 @@ func scanLocker(targetPath string) ([]int32, error) {
 	}
 
 	for _, p := range procs {
-		// Bỏ qua các tiến trình hệ thống nhạy cảm (giống bản Python của bạn)
+		// Bỏ qua các tiến trình hệ thống nhạy cảm (giống bản Python trước)
 		name, _ := p.Name()
 		if name == "System" || name == "Registry" || name == "Idle" {
 			continue
